@@ -1,0 +1,5 @@
+product_type,loan_count,total_current_balance,avg_current_balance,avg_interest_rate_pct,charge_off_rate_pct
+Mortgage,831,267022741.4,321327.01,5.96,9.51
+Auto Loan,1697,20698886.45,12197.34,7.98,8.49
+Credit Card,1897,9781084.36,5156.08,21.13,9.59
+Personal Loan,1855,8303069.97,4476.05,13.99,6.52

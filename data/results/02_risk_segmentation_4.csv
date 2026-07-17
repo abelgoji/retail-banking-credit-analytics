@@ -1,0 +1,11 @@
+product_type,risk_grade,loan_count,charged_off_balance,risk_rank
+Mortgage,C,213,6811584.85,1
+Mortgage,E,40,5757131.63,2
+Mortgage,D,114,4216184.81,3
+Mortgage,B,274,3755833.43,4
+Auto Loan,D,218,860716.83,5
+Auto Loan,C,418,607992.06,6
+Auto Loan,E,105,574606.23,7
+Credit Card,C,472,377438.01,8
+Auto Loan,B,521,373602.1,9
+Personal Loan,D,234,364140.58,10

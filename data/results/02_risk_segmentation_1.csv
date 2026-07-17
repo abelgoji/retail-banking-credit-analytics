@@ -1,0 +1,6 @@
+risk_grade,loan_count,total_balance,charge_off_rate_pct,serious_delinquency_rate_pct
+A,1593,70295971.09,1.51,0.59
+B,1991,103817494.65,3.97,1.95
+C,1552,77161545.05,9.66,5.49
+D,816,40449571.88,19.24,13.21
+E,328,14081199.51,35.37,24.85

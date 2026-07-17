@@ -1,0 +1,4 @@
+segment,total_customers,customers_with_active_loan,customers_with_deposit,loan_only_no_deposit,pct_loan_customers_no_deposit,segment_deposit_balance,segment_loan_balance,deposit_to_loan_ratio
+Mass Market,3582,2480,2210,946,38.15,44419960.57,199372806.02,0.22
+Affluent,1144,824,960,132,16.02,43350740.45,66636968.24,0.65
+Private Banking,274,201,233,30,14.93,27469854.84,14379563.82,1.91

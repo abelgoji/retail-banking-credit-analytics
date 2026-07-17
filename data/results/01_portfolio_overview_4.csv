@@ -1,0 +1,5 @@
+delinquency_bucket,loan_count,pct_of_active_loans,balance_in_bucket
+Current,4361,88.75,249727848.3
+30-59 DPD,332,6.76,19426989.04
+60-89 DPD,140,2.85,7652585.98
+90+ DPD,81,1.65,3581914.76
