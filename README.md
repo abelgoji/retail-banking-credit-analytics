@@ -1,6 +1,6 @@
 # Retail Banking Credit Risk & Loan Portfolio Analytics
 
-Live dashboard: *(add your GitHub Pages URL here after deploying)*
+Live dashboard: https://abelgoji.github.io/retail-banking-credit-analytics/
 
 A SQL-first credit risk analytics project — portfolio composition, risk-grade segmentation, delinquency trend, deposit cross-sell targeting, and loan vintage/cohort analysis — built with hand-written SQL against a SQLite database, orchestrated with Python.
 
@@ -51,7 +51,7 @@ SQLite, SQL (CTEs, window functions, vintage/cohort analysis), Python (`pandas`,
 ```
 retail-banking-credit-analytics/
 ├── README.md
-├── index.html                          # the dashboard, with an in-browser SQL viewer
+├── index.html                          # https://abelgoji.github.io/retail-banking-credit-analytics/
 ├── requirements.txt
 ├── data/
 │   ├── bank_data.db                    # SQLite database
